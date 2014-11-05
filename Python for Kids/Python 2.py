@@ -1,0 +1,10 @@
+import turtle
+Tank = turtle.RawPen()
+Claire = turtle.Pen()
+Claire.circle(90)
+Claire.left(50)
+Tank.up()
+Tank.forward(90)
+Tank.down()
+Claire.Forward(50)
+Tank.circle(90)
